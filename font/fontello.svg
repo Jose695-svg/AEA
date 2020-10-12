@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2020 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="yahoo" unicode="&#xf19e;" d="M479 316l8-395q-35 7-59 7-23 0-59-7l8 395q-23 39-94 165t-121 209-101 160q32-8 60-8 25 0 62 8 35-62 75-128t93-154 77-127q21 34 61 99t66 106 58 98 60 106q30-8 60-8 31 0 63 8-15-22-33-49t-28-44-31-54-28-47q-81-138-197-340z" horiz-adv-x="857.1" />
+
+<glyph glyph-name="facebook-official" unicode="&#xf230;" d="M810 779q19 0 33-14t14-34v-762q0-20-14-34t-33-14h-218v333h111l16 129h-127v83q0 31 13 46t51 16l68 1v115q-35 5-100 5-75 0-121-44t-45-127v-95h-112v-129h112v-333h-411q-19 0-33 14t-14 34v762q0 20 14 34t33 14h763z" horiz-adv-x="857.1" />
+</font>
+</defs>
+</svg>
