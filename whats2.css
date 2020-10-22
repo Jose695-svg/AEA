@@ -18,15 +18,15 @@
 }
 
 .nav-bottom {
-  display: flex;
+  display: none;
   flex-direction: row;
   justify-content: flex-end;
   align-content: flex-end;
-  width: auto;
-  height: auto;
+  width: 60px;
+  height: 24px;
   position: fixed;
-  z-index: 8;
-  bottom: 0px;
+  z-index: 1000;
+  bottom: 25px;
   right: 0px;
   padding: 5px;
   margin: 0px;
