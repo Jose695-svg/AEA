@@ -1,5 +1,5 @@
 .float{
-	position:absolute;
+	position:fixed;
 	width:60px;
 	height:60px;
 	bottom: 15px;
