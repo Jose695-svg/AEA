@@ -212,3 +212,7 @@ input.whats-input[type=text]:focus {
 .icon-font-color--black {
   color: #333333;
 }
+
+.whasa {
+  position: relative;
+}
